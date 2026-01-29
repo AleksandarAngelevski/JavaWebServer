@@ -1,4 +1,4 @@
-# ChatAppPureJava
+# ChatAppPureJava/JAVA WEB SERVER
 ## -January 22 2026 1:52 am 
   Decided to code a web server for a chat app using pure java. We'll see how it goes...
 
